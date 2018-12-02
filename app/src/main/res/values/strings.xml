@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My ApplicationQuizz</string>
+    <string name="quiz">QUIZ</string>
+    <string name="name">Name</string>
+    <string name="categories">Categories</string>
+    <string name="begin">BEGIN!</string>
+    <string name="animals">ANIMALS</string>
+    <string name="cars">CARS</string>
+    <string name="food">FOOD</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="places">PLACES</string>
+    <string name="hms_scrap">HMS Scrap</string>
+</resources>
