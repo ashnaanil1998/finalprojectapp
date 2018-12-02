@@ -3,7 +3,11 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 28
     defaultConfig {
+<<<<<<< HEAD
         applicationId "com.example.ashnaanil.myapplicationquizz"
+=======
+        applicationId "com.example.sisi.afinal"
+>>>>>>> 7b721de7d50fc18a34bd457fcb3d44b99ada3bf0
         minSdkVersion 15
         targetSdkVersion 28
         versionCode 1
@@ -25,6 +29,9 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
+<<<<<<< HEAD
     implementation 'com.android.support:recyclerview-v7:28.0.0'
     implementation 'com.android.support:cardview-v7:28.0.0'
+=======
+>>>>>>> 7b721de7d50fc18a34bd457fcb3d44b99ada3bf0
 }
